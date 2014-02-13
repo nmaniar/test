@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="113" started-at="2014-02-12T03:02:56Z" finished-at="2014-02-12T03:02:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="59" started-at="2014-02-12T03:02:56Z" finished-at="2014-02-12T03:02:56Z">
+      <class name="com.testng.util.StringFunctionsTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.testng.util.StringFunctionsTest@2b452b]" name="beforeClass" is-config="true" duration-ms="0" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testng.util.StringFunctionsTest@2b452b]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="StringFunctions()[pri:0, instance:com.testng.util.StringFunctionsTest@2b452b]" name="StringFunctions" duration-ms="12" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StringFunctions -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testng.util.StringFunctionsTest@2b452b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testng.util.StringFunctionsTest@2b452b]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="isAnagrm()[pri:0, instance:com.testng.util.StringFunctionsTest@2b452b]" name="isAnagrm" duration-ms="10" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isAnagrm -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testng.util.StringFunctionsTest@2b452b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testng.util.StringFunctionsTest@2b452b]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="reverse()[pri:0, instance:com.testng.util.StringFunctionsTest@2b452b]" name="reverse" duration-ms="2" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reverse -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.testng.util.StringFunctionsTest@2b452b]" name="afterClass" is-config="true" duration-ms="1" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testng.util.StringFunctionsTest@2b452b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.testng.util.StringFunctionsTest -->
+    </test> <!-- Test -->
+    <test name="Test1" duration-ms="10" started-at="2014-02-12T03:02:56Z" finished-at="2014-02-12T03:02:56Z">
+      <class name="com.testng.TestngAnnotation1">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.testng.TestngAnnotation1@1dc8ea3]" name="beforeSuite" is-config="true" duration-ms="32" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testng.TestngAnnotation1@1dc8ea3]" name="beforeTest" is-config="true" duration-ms="0" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.testng.TestngAnnotation1@1dc8ea3]" name="beforeClass" is-config="true" duration-ms="0" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testng.TestngAnnotation1@1dc8ea3]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:com.testng.TestngAnnotation1@1dc8ea3]" name="testcase2" duration-ms="2" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testng.TestngAnnotation1@1dc8ea3]" name="afterMethod" is-config="true" duration-ms="0" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.testng.TestngAnnotation1@1dc8ea3]" name="afterClass" is-config="true" duration-ms="1" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.testng.TestngAnnotation1@1dc8ea3]" name="afterTest" is-config="true" duration-ms="1" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.testng.TestngAnnotation1@1dc8ea3]" name="afterSuite" is-config="true" duration-ms="1" started-at="2014-02-11T22:02:56Z" finished-at="2014-02-11T22:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.testng.TestngAnnotation1 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

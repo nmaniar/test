@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.testng.util.StringFunctionsTest">
+        <methods>
+          <include name="reverse"/>
+          <include name="beforeClass"/>
+          <include name="isAnagrm"/>
+          <include name="StringFunctions"/>
+          <include name="beforeMethod"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.testng.util.StringFunctionsTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
